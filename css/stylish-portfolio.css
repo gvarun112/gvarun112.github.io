@@ -279,7 +279,7 @@ footer {
 	position:absolute;
 	top:0;
 	left:0;
-	width:200px;
+	width:157px;
 	font-weight:bold;
 	font-size:13px;
 	color:#ffffff;
@@ -295,7 +295,7 @@ footer {
 .skillbar-title span {
 	display:block;
 	background:rgba(0, 0, 0, 0.1);
-	padding:0 20px;
+	padding:0 12px;
 	height:35px;
 	line-height:35px;
 	-webkit-border-top-left-radius:3px;
